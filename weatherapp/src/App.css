@@ -1,0 +1,18 @@
+.btn-weather{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  
+}
+.App{
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.text-weather{
+  text-align: center;
+  padding:15px;
+}
